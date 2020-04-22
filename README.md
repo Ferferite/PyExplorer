@@ -1,5 +1,5 @@
 # PyExplorer
-This is my first shot at making something in thinkr. It is crappy, trust me but it kinda works
+This is my first shot at making something in Thinker. It is crappy, trust me but it kinda works
 
 Some buttons don't work since I am lazy.
 To get started, type an adress into the long adress bar(the bigger one) and then click go. The files in that directory will appear below.
